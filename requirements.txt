@@ -296,7 +296,5 @@ widgetsnbextension @ file:///C:/ci/widgetsnbextension_1645009553925/work
 win-inet-pton @ file:///C:/ci/win_inet_pton_1605306165655/work
 wincertstore==0.2
 wrapt @ file:///C:/Windows/Temp/abs_7c3dd407-1390-477a-b542-fd15df6a24085_diwiza/croots/recipe/wrapt_1657814452175/work
-xgboost==1.6.2
 yarl==1.9.2
-yellowbrick==1.5
 zipp @ file:///C:/b/abs_b9jfdr908q/croot/zipp_1672387552360/work

@@ -1,0 +1,10 @@
+import fitz  # PyMuPDF
+import cv2
+import numpy 
+import openpyxl
+from openpyxl.styles import Alignment
+import pandas 
+import camelot
+import spacy
+!python -m spacy download en_core_web_sm
+import random
