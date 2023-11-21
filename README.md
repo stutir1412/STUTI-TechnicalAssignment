@@ -1,2 +1,2 @@
-# WalnutAI-TechnicalAssignment
+# Technical Assignment
  
